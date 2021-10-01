@@ -1,3 +1,4 @@
+THIS WAS TRIGGERED FROM THE 4.2 BRANCH BY ALEXIS. I MEAN 4.2 BRANCH
 h2. General information
 
 Under https://wiki.jenkins-ci.org/display/JENKINS/Git+Parameter+Plugin you find information about
